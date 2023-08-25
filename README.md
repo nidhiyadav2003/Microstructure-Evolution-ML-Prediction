@@ -28,6 +28,9 @@ This repository presents an innovative approach for accelerated prediction of mi
 2. Follow the steps in the provided Python scripts to preprocess the data and train the ConvLSTM model.
 3. Execute the scripts to generate predictions for future microstructure frames based on prior frames.
 
+## Important Note
+The dataset of microstructure is extensive; hence, if you are using this code, feel free to mail me at (nidhig20@iitk.ac.in) to get the dataset.
+
 ## Contributing
 
 Contributions are welcome! Please create a pull request or submit issues for improvements, bug fixes, or additional features.
